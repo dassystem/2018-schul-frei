@@ -1,3 +1,7 @@
-.reveal h1 {
+* {
+  size: 12pt;
+}
+
+h1 {
   size: 14pt;
 }

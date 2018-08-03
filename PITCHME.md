@@ -8,7 +8,6 @@ $theme: gaia
 template:invert
 -->
 
-
 # Die unfreie Lehrkraft mit demokratisch pluralistischem Bildungsauftrag in einer von Monopolen geprägten digitalen Welt – Ausbruch aus der Abhängigkeit
 
 Adrian Salamon
