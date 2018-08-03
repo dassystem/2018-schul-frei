@@ -139,11 +139,11 @@ Note: DSGVO? Informationelle Selbstbestimmung?
 	* Was, wenn unsere Regierung Abhängig vom den größten amerikanischen Unternehmen ist?
 
 Note:
-§3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
-§99 Sponsoring, Werbung
-Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
-	!Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
-? Multiperspektivisch 
+* §3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
+* §99 Sponsoring, Werbung
+	- > Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
+	- !Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
+* Multiperspektivisch (did)
 
 
 ---
