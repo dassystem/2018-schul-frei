@@ -1,18 +1,37 @@
+---
+title: Die unfreie Lehrkraft mit demokratisch pluralistischem Bildungsauftrag in einer von Monopolen geprägten digitalen Welt
+author: Adrian Salamon
+date: 2018-08-23
+theme: white
+revealOptions:
+    transition: 'slide'
+		transitionSpeed: 'fast'
+		controls: true
+		center: false
+---
+<!-- start with
+	reveal-md PITCHME.md --css slidestyle.css -w --theme white
+-->
+
+
 <!-- use with marp editor-->
 
 <!-- $size: 16:9
 $author: Adrian Salamon
-$date: 2018-07-26
+$date: 2018-08-23
 $title: Die unfreie Lehrkraft – Ausbruch aus dem Gefängnis der Abhängigkeit
 $theme: gaia
 template:invert
 -->
 
-# Die unfreie Lehrkraft mit demokratisch pluralistischem Bildungsauftrag in einer von Monopolen geprägten digitalen Welt – Ausbruch aus der Abhängigkeit
 
-Adrian Salamon
+# Die unfreie Lehrkraft mit demokratisch pluralistischem Bildungsauftrag in einer von Monopolen geprägten digitalen Welt 
+
+<div class="mydata">
+23.08.2018 <br>
+Adrian Salamon <br>
 tarent solutions GmbH
-
+</div>
 
 <img style="float: right; width:150px; border-style: solid; border-color:#000000;
     border-width: 1px;" src="./cc-by.svg">
@@ -36,10 +55,12 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 ## Aufgaben der Lehrkraft:
 * Vermitteln von Fachinhalten
 * gesellschaftliche Vorbildfunktion im demokratischen Gedanken
-		(Schulgesetz §2: Bildungs- und Erziehungsauftrag,)
 * Fördern "digitaler Medien" (Medienbildung)
 
-`(wir kommen später darauf zurück)`
+> wir kommen später darauf zurück
+
+Note: Schulgesetz §2: Bildungs- und Erziehungsauftrag
+
 
 ---
 
@@ -48,12 +69,14 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 * iPads + AppleTV
 * Google Docs
 * Dropbox
-* WhatsApp Gruppen -> DSGVO? Informationelle Selbstbestimmung?
+* WhatsApp Gruppen
 * Smartboard Anwendersoftware
+
+Note: DSGVO? Informationelle Selbstbestimmung?
 
 ---
 
-### Was braucht die durchschnitts Lehrkraft an digitalen Werkzeugen? 
+### Allgemeine digitale Werkzeugen für Lehrkräfte 
 * Betriebssystem
 * Bürosoftware
 	- Textverarbeitung
@@ -64,7 +87,7 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 
 ---
 
-### Spezielle Werkzeuge
+### Spezielle digitale Werkzeugen für Lehrkräfte 
 * Bildberarbeitung
 * Videoschnitt
 * Musikproduktion
@@ -77,14 +100,13 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 * Instagram
 
 
-```text
-Hier ist wichtig:
-Für welche Zwecke werden die Dienste eingesetzt?
- * Zum übermitteln von Noten und Hausaufaben sind sie unzulässig
- * Um gemeinsame Lernergebnisse mit der Welt zu teilen, kann es ok sein
-```
 
---- 
+> Hier ist wichtig:
+> Für welche Zwecke werden die Dienste eingesetzt?
+>  * Zum übermitteln von Noten und Hausaufaben sind sie unzulässig
+>  * Um gemeinsame Lernergebnisse mit der Welt zu teilen, kann es ok sein
+
+---
 
 ### Was sagen Nutzungsrechte über Benutzer aus?
 * Wer darf was auf Schulrechner installieren? Nicht jede Lehrkraft
@@ -103,20 +125,11 @@ Für welche Zwecke werden die Dienste eingesetzt?
 * "Cloudspeicher"-Software von Schulbuchverlagen
 * MS Word. Für alles. Wirklich alles.
 
-`(bitte in Zukunft alles nicht mehr benutzen)`
+> bitte in Zukunft alles nicht mehr benutzen
 
 ---
 
 ## Problematisierung
-
-
-§3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
-? Multiperspektivisch 
-
-§99 Sponsoring, Werbung
-Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
-	!Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
-
 
 * Wie objektiv kann ein proprietäres Werkzeug sein?
 * Es muss geeicht sein von einer unabhänigen Stelle
@@ -125,11 +138,19 @@ Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig
 	* Was, wenn meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
 	* Was, wenn unsere Regierung Abhängig vom den größten amerikanischen Unternehmen ist?
 
+Note:
+§3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
+§99 Sponsoring, Werbung
+Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
+	!Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
+? Multiperspektivisch 
+
+
 ---
 
 ### SaaS
 
-* Selber hosten? [lel]
+* Selber hosten?
 	- Netzwerkdateisystem
 	- Chatsysteme
 	- Soziale Medien
@@ -161,9 +182,9 @@ __Kann der gläserne Bürger ein mündiger Bürger sein?__
 
 ### (richtige) Aufgaben der Lehrkraft bezüglich digitaler Medien
 
-1) Befähigen zum zielgerichtetem Einsetzen und Konfigurieren von Software
-1) Befähigen zur Gestaltung von von Informatiksystemen (programmieren)
-1) Mündiges leben mit Informatiksystemen vermitteln und vorleben
+* Befähigen zum zielgerichtetem Einsetzen und Konfigurieren von Software
+* Befähigen zur Gestaltung von von Informatiksystemen (programmieren)
+* Mündiges leben mit Informatiksystemen vermitteln und vorleben
 
 <img style="float: right" src="./lehrer-empty.svg">
 
