@@ -33,10 +33,20 @@ Adrian Salamon <br>
 tarent solutions GmbH
 </div>
 
-<img style="float: right; width:150px; border-style: solid; border-color:#000000;
-    border-width: 1px;" src="./cc-by.svg">
+<img style="float: right; width:150px;" src="./cc-by.svg">
+
 
 ---
+With illustrations of
+
+```Text
+FreeSoftware TEDx slides
+Christian Noguera, Valentin Pasquier, Richard Stallman
+Released under CC-BY 3.0 license
+Copyright 2014
+```
+
+<div style="display:none">
 ## Abstract
 
 Wir leben und arbeiten in einer dystopischen Welt, in der proprietäre Software alles dominiert. Hausaufgaben gibt's per Dropbox, Klausurergebnisse per Facebook und die Klassenfahrt wird offiziell über WhatsApp organisiert. Aber auch während des Unterrichts dominieren unfreie Systeme und Werkzeuge und unsere Lern- und Arbeitsweisen.
@@ -46,11 +56,39 @@ Ist das alles mit den Zielen digitaler Medienbildung konform? Könnte Freie Soft
 Beobachtungen aus der Perspektive der Schulinformatik.
 
 ---
-
+</div>
 
 
 <!--footer: Adrian Salamon, 2018. cc-by 4.0 -->
 
+## Preambel: Freie Software
+
+Jeder hat die Freiheit…
+
+* das Programm auszuführen wie man möchte.
+* die Funktion des Programms zu untersuchen anzupassen. <img src="./img/source-code-symbol.png" class="imgnonfloat">
+* das Programm zu verteilen.
+* das Programm zu verbessern. <img src="./img/source-code-symbol.png" class="imgnonfloat">
+
+![stuff](./img/not-a-programer.png)
+
+Note: 
+* Freie Software verkaufen (RedHat/Fedora)
+	- Premium: Nextcloud, Seafile, Emby…
+* Freies Wissen verkaufen (Wikipedia)
+
+
+---
+
+### Free Software ≥ Open Source?
+
+![Free-Open](./img/freesoftware-opensource.png)
+
+siehe 
+* https://www.gnu.org/philosophy/free-software-for-freedom.de.html
+* https://www.gnu.org/philosophy/open-source-misses-the-point.de.html
+
+---
 
 ## Aufgaben der Lehrkraft:
 * Vermitteln von Fachinhalten
@@ -67,12 +105,21 @@ Note: Schulgesetz §2: Bildungs- und Erziehungsauftrag
 ### Lernen mit Medien – eine Darstellung des dystopischen Alltags
 
 * iPads + AppleTV
-* Google Docs
+* Microsoft Office
 * Dropbox
-* WhatsApp Gruppen
+* WhatsApp Gruppenchats
 * Smartboard Anwendersoftware
 
+![](./img/program-controls.png)
+
 Note: DSGVO? Informationelle Selbstbestimmung?
+
+---
+### "Nur" ein Lernwerkzeug?
+
+* TODO
+
+![](./img/teacher-deals.png)
 
 ---
 
@@ -148,13 +195,17 @@ Note:
 
 ---
 
-### SaaS
+### Software as a service
 
-* Selber hosten?
+* Anhängigkeiten auflösen!
 	- Netzwerkdateisystem
 	- Chatsysteme
 	- Soziale Medien
 	- Lernplattformen
+
+![](./img/saas.png)
+
+
 
 
 ---
@@ -166,27 +217,27 @@ Note:
 * mehr Schutz vor NSA, Bundestrojaner etc.
 * weniger Einfluss von Konzernen auf unser Konsum- und Kommunikationsverhalten
 
-__Kann der gläserne Bürger ein mündiger Bürger sein?__
+> Kann der gläserne Bürger ein mündiger Bürger sein?
 
 ---
 ### Handfeste Hinweise für schulinterne Kommunikation
-* Firefox/Chromium statt Google Chrome/Safari/Edge
-* Seafile statt Dropbox
-* Diaspora statt Facebook
-* GnuSocial statt Twitter
-* Moodle statt nicht Moodle
-* XMPP statt WhatsApp
-* NextCloud als (verschlüsselte) Dateiablage, Kalender, Kontakte, (Video-)Chatplattform, kollaboratives Arbeiten uvm.
+* __Firefox/Chromium__ statt Google Chrome/Safari/Edge
+* __Seafile__ statt Dropbox
+* __Diaspora__ statt Facebook
+* __GnuSocial__ statt Twitter
+* __Moodle__ statt nicht Moodle
+* __XMPP__ statt WhatsApp
+* __NextCloud__ als (verschlüsselte) Dateiablage, Kalender, Kontakte, (Video-)Chatplattform, kollaboratives Arbeiten uvm.
 
 ---
 
 ### (richtige) Aufgaben der Lehrkraft bezüglich digitaler Medien
 
-* Befähigen zum zielgerichtetem Einsetzen und Konfigurieren von Software
-* Befähigen zur Gestaltung von von Informatiksystemen (programmieren)
+* Befähigen zum zielgerichtetem Einsetzen von Software
+* Befähigen zur Gestaltung von von Informatiksystemen
 * Mündiges leben mit Informatiksystemen vermitteln und vorleben
 
-<img style="float: right" src="./lehrer-empty.svg">
+![teach free software](./img/teach-free.png)
 
 ---
 ### Linksammlung für Softwareempfehlungen
@@ -199,6 +250,5 @@ __Kann der gläserne Bürger ein mündiger Bürger sein?__
 
 ---
 # Vielen Dank
-
 
 

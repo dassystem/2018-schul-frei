@@ -4,28 +4,32 @@
 
 .reveal h1 {
   font-size: 4rem;
+  line-height: 4.5rem;
 }
 
 .reveal h2 {
   font-size: 3rem;
+  line-height: 3.5rem;
 }
 
 .reveal h3 {
   font-size: 2.7rem;
+  line-height: 3.0rem;
 }
-
 
 .reveal .slides {
   width:1200px;
   text-align:left;
 }
 .reveal ol, ul {
-  display: inline;
+  float:left;
 }
 
 
 .reveal li {
   font-size: 2rem;
+  line-height: 3.0rem;
+  max-width: 40vh;
 }
 
 .reveal .mydata{
@@ -35,3 +39,61 @@
   margin: 1rem;
 }
 
+.reveal em{
+  font-style: normal;
+  font-weight: bold;
+}
+
+.reveal strong{
+  color: #ff0000;
+}
+
+.reveal .imgnonfloat{
+  width:1.2rem;
+  display:inline;
+  margin:0;
+  float:none;
+}
+
+
+.reveal blockquote{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.reveal section img{
+  border-width: 0px;
+  box-shadow: none;
+  max-width: 30vh;
+  float:right;
+}
+
+
+/*.reveal blockquote::before{
+  content: "\201C";
+  content: "\201E";
+
+  font-family: Georgia, serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: #999;
+  
+  position: absolute;
+  left: -25px;
+  top:23px;
+}
+
+.reveal blockquote::after{
+  content: "";
+  content: "\201C";
+  
+
+  font-family: Georgia, serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: #999;
+
+  position: absolute;
+  right: 5px;
+  bottom:20px;
+}
+*/
