@@ -53,7 +53,8 @@
 .reveal section img{
   border-width: 0px;
   box-shadow: none;
-  max-width: 35vh;
+  /*max-width: 20vw;*/
+  width: 30vw;
   float:right;
 }
 
@@ -61,7 +62,7 @@
   float:left;
   display: inline-block;
   box-sizing: border-box;
-  max-width: 50vh;
+  max-width: 35vw;
   font-size:12px;
   border:2px solid black;
 }
