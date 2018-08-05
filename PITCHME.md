@@ -117,22 +117,23 @@ Note: DSGVO? Informationelle Selbstbestimmung?
 ---
 ### "Nur" ein Lernwerkzeug?
 
-* TODO
+* TODO WERBUNG
 
 ![](./img/teacher-deals.png)
+
+Note: §99 Sponsoring, Werbung
+	- > Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
+	- !Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
+	- Windows, Appe, Whatsapp, Facebook…
 
 ---
 
 ### Allgemeine digitale Werkzeugen für Lehrkräfte 
 * Betriebssystem
 * Bürosoftware
-	- Textverarbeitung
-	- Tabellenkalkulation
-	- Präsentationen
 * Texteditor
 * Webbrowser
 
----
 
 ### Spezielle digitale Werkzeugen für Lehrkräfte 
 * Bildberarbeitung
@@ -146,8 +147,7 @@ Note: DSGVO? Informationelle Selbstbestimmung?
 * Twitter
 * Instagram
 
-
-
+Note:
 > Hier ist wichtig:
 > Für welche Zwecke werden die Dienste eingesetzt?
 >  * Zum übermitteln von Noten und Hausaufaben sind sie unzulässig
@@ -155,7 +155,11 @@ Note: DSGVO? Informationelle Selbstbestimmung?
 
 ---
 
-### Was sagen Nutzungsrechte über Benutzer aus?
+### Lehrkraft und Computer – Wer kontrolliert wen?
+
+![](./img/force-downgrade.png)
+
+Note:
 * Wer darf was auf Schulrechner installieren? Nicht jede Lehrkraft
 * Was dürfen Schülerinnen installieren? Gar nichts.
 
@@ -172,7 +176,7 @@ Note: DSGVO? Informationelle Selbstbestimmung?
 * "Cloudspeicher"-Software von Schulbuchverlagen
 * MS Word. Für alles. Wirklich alles.
 
-> bitte in Zukunft alles nicht mehr benutzen
+![](./img/teacher-shares.png)
 
 ---
 
@@ -181,15 +185,15 @@ Note: DSGVO? Informationelle Selbstbestimmung?
 * Wie objektiv kann ein proprietäres Werkzeug sein?
 * Es muss geeicht sein von einer unabhänigen Stelle
 
-	* Was, wenn Google/Facebook/etc. bestimmte Beiträge rausfiltert?
-	* Was, wenn meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
-	* Was, wenn unsere Regierung Abhängig vom den größten amerikanischen Unternehmen ist?
+* Was, wenn Google/Facebook/etc. bestimmte Beiträge rausfiltert?
+* Was, wenn meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
+* Was, wenn unsere Regierung Abhängig vom den größten amerikanischen Unternehmen ist?
+
+
+![orders-from](./img/orders-from.png)
 
 Note:
 * §3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
-* §99 Sponsoring, Werbung
-	- > Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
-	- !Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
 * Multiperspektivisch (did)
 
 
@@ -217,10 +221,14 @@ Note:
 * mehr Schutz vor NSA, Bundestrojaner etc.
 * weniger Einfluss von Konzernen auf unser Konsum- und Kommunikationsverhalten
 
-> Kann der gläserne Bürger ein mündiger Bürger sein?
+![](./img/backdoor.png)
+
+Note: Kann der gläserne Bürger ein mündiger Bürger sein?
+
 
 ---
 ### Handfeste Hinweise für schulinterne Kommunikation
+
 * __Firefox/Chromium__ statt Google Chrome/Safari/Edge
 * __Seafile__ statt Dropbox
 * __Diaspora__ statt Facebook

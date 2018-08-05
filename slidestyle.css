@@ -18,18 +18,7 @@
 }
 
 .reveal .slides {
-  width:1200px;
   text-align:left;
-}
-.reveal ol, ul {
-  float:left;
-}
-
-
-.reveal li {
-  font-size: 2rem;
-  line-height: 3.0rem;
-  max-width: 40vh;
 }
 
 .reveal .mydata{
@@ -60,11 +49,26 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+
 .reveal section img{
   border-width: 0px;
   box-shadow: none;
-  max-width: 30vh;
+  max-width: 35vh;
   float:right;
+}
+
+.reveal ul, ol{
+  float:left;
+  display: inline-block;
+  box-sizing: border-box;
+  max-width: 50vh;
+  font-size:12px;
+  border:2px solid black;
+}
+
+.reveal li {
+  font-size: 2rem;
+  line-height: 3.0rem;
 }
 
 
