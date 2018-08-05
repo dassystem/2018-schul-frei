@@ -115,18 +115,6 @@ Note: Schulgesetz §2: Bildungs- und Erziehungsauftrag
 Note: DSGVO? Informationelle Selbstbestimmung?
 
 ---
-### "Nur" ein Lernwerkzeug?
-
-* TODO WERBUNG
-
-![](./img/teacher-deals.png)
-
-Note: §99 Sponsoring, Werbung
-	- > Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
-	- !Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
-	- Windows, Appe, Whatsapp, Facebook…
-
----
 
 ### Allgemeine digitale Werkzeugen für Lehrkräfte 
 * Betriebssystem
@@ -134,14 +122,11 @@ Note: §99 Sponsoring, Werbung
 * Texteditor
 * Webbrowser
 
-
-### Spezielle digitale Werkzeugen für Lehrkräfte 
 * Bildberarbeitung
 * Videoschnitt
 * Musikproduktion
 
 ---
-
 ### Social Media
 * Facebook
 * Twitter
@@ -155,21 +140,6 @@ Note:
 
 ---
 
-### Lehrkraft und Computer – Wer kontrolliert wen?
-
-![](./img/force-downgrade.png)
-
-Note:
-* Wer darf was auf Schulrechner installieren? Nicht jede Lehrkraft
-* Was dürfen Schülerinnen installieren? Gar nichts.
-
-> _Einschränkungen vermitteln ein Bild von Hilflosigkeit, wenn wir doch eigentlich Hilfe zur Selbsthilfe geben wollen und zeigen wollen, dass wir in der Lage sind die Maschine zu kontrollieren, nicht umgekehrt._
-
-
-**Habt Mut zur Freiheit** (und Systembackups)
-
----
-
 ### und das Lehrerleben… 
 * Dropbox für Materialaustausch
 * Noteneingabe über eine proprietäre uralt Software
@@ -177,6 +147,33 @@ Note:
 * MS Word. Für alles. Wirklich alles.
 
 ![](./img/teacher-shares.png)
+
+---
+
+
+### "Nur" ein Lernwerkzeug?
+
+* TODO WERBUNG
+
+![](./img/teacher-deals.png)
+
+Note: §99 Sponsoring, Werbung
+	- > Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
+	- !Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
+	- Windows, Appe, Whatsapp, Facebook…
+
+---
+
+
+### Lehrkraft und Computer – Wer kontrolliert wen?
+
+![](./img/force-downgrade.png)
+
+Note:
+* Wer darf was auf Schulrechner installieren? Nicht jede Lehrkraft
+* Was dürfen Schülerinnen installieren? Gar nichts.
+* Einschränkungen vermitteln ein _Bild von Hilflosigkeit_, wenn wir doch eigentlich _Hilfe zur Selbsthilfe_ geben wollen und zeigen wollen, dass wir in der Lage sind die Maschine zu kontrollieren, nicht umgekehrt.
+
 
 ---
 
@@ -210,7 +207,9 @@ Note:
 ![](./img/saas.png)
 
 
+---
 
+**Habt Mut zur Freiheit** (und Systembackups)
 
 ---
 
@@ -235,17 +234,28 @@ Note: Kann der gläserne Bürger ein mündiger Bürger sein?
 * __GnuSocial__ statt Twitter
 * __Moodle__ statt nicht Moodle
 * __XMPP__ statt WhatsApp
-* __NextCloud__ als (verschlüsselte) Dateiablage, Kalender, Kontakte, (Video-)Chatplattform, kollaboratives Arbeiten uvm.
+* __NextCloud__ als Daten- und Kommunikationsplattform
+
+TODO: IMG mit den Logos
+
+Note:
+	(verschlüsselte) Dateiablage, Kalender, Kontakte, (Video-)Chatplattform, kollaboratives Arbeiten uvm.
 
 ---
 
 ### (richtige) Aufgaben der Lehrkraft bezüglich digitaler Medien
 
+* zielgerichtet einsetzen
+* bewusst gestalten
+* mündig leben
+
+![teach free software](./img/teach-free.png)
+
+
+Note:
 * Befähigen zum zielgerichtetem Einsetzen von Software
 * Befähigen zur Gestaltung von von Informatiksystemen
 * Mündiges leben mit Informatiksystemen vermitteln und vorleben
-
-![teach free software](./img/teach-free.png)
 
 ---
 ### Linksammlung für Softwareempfehlungen
