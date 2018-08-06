@@ -3,7 +3,7 @@ layout : top-left
 
 # Look-and-Feel
 #logo : assets/images/logo.png
-theme : night
+theme : white
 theme-override : ./slidestyle.css
 highlight : ir-black
 
