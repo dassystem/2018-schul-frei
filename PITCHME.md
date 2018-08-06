@@ -33,7 +33,7 @@ Adrian Salamon <br>
 tarent solutions GmbH
 </div>
 
-<img style="float: right; width:150px;" src="./cc-by.svg">
+<img style="float: right; width:150px;" src="./cc-by.png">
 
 
 ---
