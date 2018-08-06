@@ -37,7 +37,7 @@ tarent solutions GmbH
 
 
 ---
-With illustrations of
+With (some) illustrations of
 
 ```Text
 FreeSoftware TEDx slides
@@ -61,7 +61,21 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 
 <!--footer: Adrian Salamon, 2018. cc-by 4.0 -->
 
-## Preambel: Freie Software
+
+## Was ist Software?
+
+* Programme
+* Apps
+* Webapps
+* Hardwaresteuerung
+* …
+
+![](./img/sourcecode.png)
+
+
+---
+
+### Freie Software
 
 Jeder hat die Freiheit…
 
@@ -70,7 +84,7 @@ Jeder hat die Freiheit…
 * das Programm zu verteilen.
 * das Programm zu verbessern. <img src="./img/source-code-symbol.png" class="imgnonfloat">
 
-![stuff](./img/not-a-programer.png)
+![](./img/sourcecode-free.png)
 
 
 
@@ -86,7 +100,7 @@ Note:
 
 ![Free-Open](./img/freesoftware-opensource.png)
 
-siehe 
+
 * https://www.gnu.org/philosophy/free-software-for-freedom.de.html
 * https://www.gnu.org/philosophy/open-source-misses-the-point.de.html
 
@@ -130,17 +144,13 @@ Note:
 * Bürosoftware
 * Texteditor
 * Webbrowser
-
 * Bildberarbeitung
 * Videoschnitt
 * Musikproduktion
 
----
+* Kommunikationstools
+* Social Media
 
-### Social Media
-* Facebook
-* Twitter
-* Instagram
 
 Note:
 > Hier ist wichtig:
@@ -156,7 +166,7 @@ Note:
 * "Cloudspeicher"-Software von Schulbuchverlagen
 * MS Word. Für alles. Wirklich alles.
 
-TODO: IMG?
+![](./img/amazon.png) <!-- modifiedy by Adrian Salamon 2018 -->
 
 ---
 
@@ -198,16 +208,15 @@ Note:
 ### Vertrauen
 
 * Wie objektiv kann ein proprietäres Werkzeug sein?
-* Es muss geeicht sein von einer unabhänigen Stelle
-
 * Was, wenn Google/Facebook/etc. bestimmte Beiträge rausfiltert?
 * Was, wenn meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
-* Was, wenn unsere Regierung Abhängig vom den größten amerikanischen Unternehmen ist?
+* Was, wenn unsere Regierung abhängig vom den größten amerikanischen Unternehmen ist?
 
 
 ![orders-from](./img/orders-from.png)
 
 Note:
+* Objektiv: Es muss geeicht sein von einer unabhänigen Stelle
 * §3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
 * Multiperspektivisch (did)
 
@@ -222,7 +231,7 @@ Note:
 * Chatsysteme
 * Soziale Medien
 * Lernplattformen
-* Freie Schnittstellen/Formate verwenden!
+* _⇒ Freie Schnittstellen/Formate verwenden!_
 
 ![](./img/saas.png)
 
@@ -234,9 +243,11 @@ Note:
 * Rechteverwaltung
 * Austauschbarkeit
 
+![](./img/collaborate.png)
+
 Note: Ebene Konfiguration oder Kompilierung
 
-----
+---
 
 ### FOSS als Grundlage digitaler Selbstverteidigung
 * Sehen/bearbeiten/lesen von Quelltext <!-- -> Transparenz -->
@@ -269,7 +280,7 @@ Note:
 
 ---
 
-### Handfeste Hinweise für schulinterne Kommunikation
+### Freie Alternativen im Bildungsaltag
 
 * __Firefox/Chromium__ statt Google Chrome/Safari/Edge
 * __Seafile__ statt Dropbox
@@ -277,9 +288,10 @@ Note:
 * __GnuSocial__ statt Twitter
 * __Moodle__ statt nicht Moodle
 * __XMPP__ statt WhatsApp
+* __Libre Office__ statt Microsoft Office
 * __NextCloud__ als Daten- und Kommunikationsplattform
 
-TODO: IMG mit den Logos
+![](./img/freie-alternativen.png) <!-- created by Adrian Salamon 2018 CC-BY -->
 
 Note:
 	(verschlüsselte) Dateiablage, Kalender, Kontakte, (Video-)Chatplattform, kollaboratives Arbeiten uvm.
