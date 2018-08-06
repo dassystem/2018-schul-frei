@@ -17,6 +17,17 @@
   line-height: 3.0rem;
 }
 
+.reveal h4 {
+  font-size: 1.7rem;
+  line-height: 3.0rem;
+  color: #616161;
+  margin: -18px 0 15px 35px;
+  text-transform: none;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+
 .reveal .slides {
   text-align:left;
 }
@@ -54,7 +65,7 @@
   border-width: 0px;
   box-shadow: none;
   /*max-width: 20vw;*/
-  width: 30vw;
+  max-width: 40%;
   float:right;
 }
 
@@ -62,9 +73,9 @@
   float:left;
   display: inline-block;
   box-sizing: border-box;
-  max-width: 35vw;
+  max-width: 55%;
   font-size:12px;
-  border:2px solid black;
+  border:0px solid black;
 }
 
 .reveal li {
@@ -72,6 +83,9 @@
   line-height: 3.0rem;
 }
 
+.reveal .fullsize{
+  width:90vw;
+}
 
 /*.reveal blockquote::before{
   content: "\201C";

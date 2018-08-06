@@ -72,6 +72,8 @@ Jeder hat die Freiheit…
 
 ![stuff](./img/not-a-programer.png)
 
+
+
 Note: 
 * Freie Software verkaufen (RedHat/Fedora)
 	- Premium: Nextcloud, Seafile, Emby…
@@ -91,18 +93,23 @@ siehe
 ---
 
 ## Aufgaben der Lehrkraft:
-* Vermitteln von Fachinhalten
-* gesellschaftliche Vorbildfunktion im demokratischen Gedanken
-* Fördern "digitaler Medien" (Medienbildung)
 
-> wir kommen später darauf zurück
+<div class="fullsize"> 
+<ul>
+  <li> Vermitteln von Fachinhalten </li>
+  <li> gesellschaftliche Vorbildfunktion im demokratischen Gedanken </li>
+  <li> Fördern "digitaler Medien" (Medienbildung) </li>
+</ul>
+</div>
 
-Note: Schulgesetz §2: Bildungs- und Erziehungsauftrag
 
+Note:
+* Schulgesetz §2: Bildungs- und Erziehungsauftrag
+* Werzeuge <> Medien?
 
 ---
 
-### Lernen mit Medien – eine Darstellung des dystopischen Alltags
+### Digitales Lernen – eine Darstellung des dystopischen Alltags
 
 * iPads + AppleTV
 * Microsoft Office
@@ -112,7 +119,9 @@ Note: Schulgesetz §2: Bildungs- und Erziehungsauftrag
 
 ![](./img/program-controls.png)
 
-Note: DSGVO? Informationelle Selbstbestimmung?
+Note:
+* DSGVO
+* Informationelle Selbstbestimmung?
 
 ---
 
@@ -127,6 +136,7 @@ Note: DSGVO? Informationelle Selbstbestimmung?
 * Musikproduktion
 
 ---
+
 ### Social Media
 * Facebook
 * Twitter
@@ -146,7 +156,7 @@ Note:
 * "Cloudspeicher"-Software von Schulbuchverlagen
 * MS Word. Für alles. Wirklich alles.
 
-![](./img/teacher-shares.png)
+TODO: IMG?
 
 ---
 
@@ -177,7 +187,15 @@ Note:
 
 ---
 
-## Problematisierung
+## Aspekte Freie Software 
+
+* Vertrauen
+* Unabhängigkeit
+* Anpassbarkeit
+
+---
+
+### Vertrauen
 
 * Wie objektiv kann ein proprietäres Werkzeug sein?
 * Es muss geeicht sein von einer unabhänigen Stelle
@@ -196,24 +214,31 @@ Note:
 
 ---
 
-### Software as a service
+### Unabhängigkeit
 
-* Anhängigkeiten auflösen!
-	- Netzwerkdateisystem
-	- Chatsysteme
-	- Soziale Medien
-	- Lernplattformen
+#### "Ich will nichts installieren": Software as a service
+
+* Netzwerkdateisystem
+* Chatsysteme
+* Soziale Medien
+* Lernplattformen
+* Freie Schnittstellen/Formate verwenden!
 
 ![](./img/saas.png)
 
-
 ---
 
-**Habt Mut zur Freiheit** (und Systembackups)
 
----
+### Anpassbarkeit
+* (graphical) user interface
+* Rechteverwaltung
+* Austauschbarkeit
 
-## FOSS als Grundlage digitaler Selbstverteidigung
+Note: Ebene Konfiguration oder Kompilierung
+
+----
+
+### FOSS als Grundlage digitaler Selbstverteidigung
 * Sehen/bearbeiten/lesen von Quelltext <!-- -> Transparenz -->
 * Wahlmöglichkeiten <!-- -> Weniger Abhängigkeiten von einem bestimmten Hersteller/Marke -->
 * Keine/weniger Lizenzgebüren (FOSS != kostenlos)
@@ -224,8 +249,26 @@ Note:
 
 Note: Kann der gläserne Bürger ein mündiger Bürger sein?
 
+---
+
+
+## Lasst uns so lehren…
+
+* mit Freier Software (Unabhängigkeit)
+* an Freier Software (Codeanalyse)
+* für Freie Software (Erziehungsauftrag)
+
+
+![](./img/teacher-shares.png)
+
+
+Note: 
+* moralischer Mehrwert
+* sharing is caring
+* Erziehung: Einander helfen
 
 ---
+
 ### Handfeste Hinweise für schulinterne Kommunikation
 
 * __Firefox/Chromium__ statt Google Chrome/Safari/Edge
@@ -243,7 +286,7 @@ Note:
 
 ---
 
-### (richtige) Aufgaben der Lehrkraft bezüglich digitaler Medien
+### (richtige) Aufgaben der Lehrkraft bezüglich digitaler Werkzeuge
 
 * zielgerichtet einsetzen
 * bewusst gestalten
