@@ -9,13 +9,12 @@ revealOptions:
 		controls: true
 		center: false
 ---
-<!-- start with
+<!-- start locally with
 	reveal-md PITCHME.md --css slidestyle.css -w --theme white
 -->
 
 
-<!-- use with marp editor-->
-
+<!-- For use with marp editor: -->
 <!-- $size: 16:9
 $author: Adrian Salamon
 $date: 2018-08-23
@@ -45,6 +44,8 @@ Christian Noguera, Valentin Pasquier, Richard Stallman
 Released under CC-BY 3.0 license
 Copyright 2014
 ```
+<!-- Info: every image without a source is made by Noguera,Pasquier and Stallman -->
+
 
 <div style="display:none">
 ## Abstract
@@ -75,9 +76,7 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 
 ---
 
-### Freie Software
-
-Jeder hat die Freiheit…
+### Freie Software bedeutet, jeder hat die Freiheit…
 
 * das Programm auszuführen wie man möchte.
 * die Funktion des Programms zu untersuchen anzupassen. <img src="./img/source-code-symbol.png" class="imgnonfloat">
@@ -106,12 +105,13 @@ Note:
 
 ---
 
-## Aufgaben der Lehrkraft:
+## Aufgaben der Lehrkraft
 
 <div class="fullsize"> 
 <ul>
   <li> Vermitteln von Fachinhalten </li>
-  <li> gesellschaftliche Vorbildfunktion im demokratischen Gedanken </li>
+	<li> Beurteilen </li>
+  <li> Erziehen  Werte und Normen im demokratischen Gedanken </li>
   <li> Fördern "digitaler Medien" (Medienbildung) </li>
 </ul>
 </div>
@@ -139,7 +139,7 @@ Note:
 
 ---
 
-### Allgemeine digitale Werkzeugen für Lehrkräfte 
+### Digitale Werkzeuge in der Lehre 
 * Betriebssystem
 * Bürosoftware
 * Texteditor
@@ -151,12 +151,13 @@ Note:
 * Kommunikationstools
 * Social Media
 
+![](./img/propritary-presentation.png)
+
 
 Note:
-> Hier ist wichtig:
-> Für welche Zwecke werden die Dienste eingesetzt?
->  * Zum übermitteln von Noten und Hausaufaben sind sie unzulässig
->  * Um gemeinsame Lernergebnisse mit der Welt zu teilen, kann es ok sein
+* Abhängigkeiten durch Vertrieb
+* Abhängigkeiten durch falsche "Standards"
+* Abhängigkeiten durch Gewohnheit
 
 ---
 
@@ -166,7 +167,11 @@ Note:
 * "Cloudspeicher"-Software von Schulbuchverlagen
 * MS Word. Für alles. Wirklich alles.
 
-![](./img/amazon.png) <!-- modifiedy by Adrian Salamon 2018 -->
+![](./img/amazon.png) <!-- image modifiedy by Adrian Salamon 2018 -->
+
+Note:
+* lo-net2 
+
 
 ---
 
@@ -197,19 +202,24 @@ Note:
 
 ---
 
-## Aspekte Freie Software 
+## Aspekte Freier Software 
 
 * Vertrauen
 * Unabhängigkeit
 * Anpassbarkeit
 
+![](./img/benefits.png) <!-- image created by Adrian Salamon 2018 CC-BY -->
+
+
+
 ---
 
 ### Vertrauen
+#### "Macht das Programm genau das, was ich will?"
+
 
 * Wie objektiv kann ein proprietäres Werkzeug sein?
 * Was, wenn Google/Facebook/etc. bestimmte Beiträge rausfiltert?
-* Was, wenn meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
 * Was, wenn unsere Regierung abhängig vom den größten amerikanischen Unternehmen ist?
 
 
@@ -219,6 +229,9 @@ Note:
 * Objektiv: Es muss geeicht sein von einer unabhänigen Stelle
 * §3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
 * Multiperspektivisch (did)
+
+* Was, wenn meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
+
 
 
 ---
@@ -239,6 +252,7 @@ Note:
 
 
 ### Anpassbarkeit
+#### "Wir brauchen das ein bisschen anders…"
 * (graphical) user interface
 * Rechteverwaltung
 * Austauschbarkeit
@@ -250,15 +264,19 @@ Note: Ebene Konfiguration oder Kompilierung
 ---
 
 ### FOSS als Grundlage digitaler Selbstverteidigung
-* Sehen/bearbeiten/lesen von Quelltext <!-- -> Transparenz -->
-* Wahlmöglichkeiten <!-- -> Weniger Abhängigkeiten von einem bestimmten Hersteller/Marke -->
-* Keine/weniger Lizenzgebüren (FOSS != kostenlos)
-* mehr Schutz vor NSA, Bundestrojaner etc.
+* sehen/bearbeiten/lesen von Quelltext
+* Wahlmöglichkeiten 
+* Keine/weniger Lizenzgebüren 
+* mehr Schutz vor NSA, Bundestrojaner…
 * weniger Einfluss von Konzernen auf unser Konsum- und Kommunikationsverhalten
 
 ![](./img/backdoor.png)
 
-Note: Kann der gläserne Bürger ein mündiger Bürger sein?
+Note:
+* Grundkompetenzen im digitalen Zeitalter
+* Weniger Abhängigkeiten von einem bestimmten Hersteller/Marke
+* FOSS != kostenlos
+* Kann der gläserne Bürger ein mündiger Bürger sein?
 
 ---
 
@@ -280,24 +298,6 @@ Note:
 
 ---
 
-### Freie Alternativen im Bildungsaltag
-
-* __Firefox/Chromium__ statt Google Chrome/Safari/Edge
-* __Seafile__ statt Dropbox
-* __Diaspora__ statt Facebook
-* __GnuSocial__ statt Twitter
-* __Moodle__ statt nicht Moodle
-* __XMPP__ statt WhatsApp
-* __Libre Office__ statt Microsoft Office
-* __NextCloud__ als Daten- und Kommunikationsplattform
-
-![](./img/freie-alternativen.png) <!-- created by Adrian Salamon 2018 CC-BY -->
-
-Note:
-	(verschlüsselte) Dateiablage, Kalender, Kontakte, (Video-)Chatplattform, kollaboratives Arbeiten uvm.
-
----
-
 ### (richtige) Aufgaben der Lehrkraft bezüglich digitaler Werkzeuge
 
 * zielgerichtet einsetzen
@@ -313,13 +313,33 @@ Note:
 * Mündiges leben mit Informatiksystemen vermitteln und vorleben
 
 ---
-### Linksammlung für Softwareempfehlungen
 
+
+### Freie Alternativen im Bildungsalltag
+
+* __Firefox/Chromium__ statt Google Chrome/Safari/Edge
+* __Seafile__ statt Dropbox
+* __Diaspora__ statt Facebook
+* __GnuSocial__ statt Twitter
+* __Moodle__ statt nicht Moodle
+* __XMPP__ statt WhatsApp
+* __Libre Office__ statt Microsoft Office
+* __NextCloud__ als Daten- und Kommunikationsplattform
+
+![](./img/freie-alternativen.png) <!-- image created by Adrian Salamon 2018 CC-BY -->
+
+Note:
+	(verschlüsselte) Dateiablage, Kalender, Kontakte, (Video-)Chatplattform, kollaboratives Arbeiten uvm.
+
+---
+### Linksammlung für Softwareempfehlungen
 
 | Link | Beschreibung  |
 |:------------ |:-------------|
 |https://prism-break.org/de/ | Alternativen zu proprietärer  Software 
 |https://github.com/Kickball/awesome-selfhosted | (freie) Software selber hosten
+
+![](./img/free-software-tree.png) <!--image taken from https://soldecom.com/wp-content/uploads/2016/05/Picture1.png -->
 
 ---
 # Vielen Dank

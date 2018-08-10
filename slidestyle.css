@@ -87,6 +87,16 @@
   width:90vw;
 }
 
+/* show tarent logo as overlay */
+body{
+  background-image: url("./img/tarent_logo_red.png");
+  background-repeat: no-repeat;
+  background-size: 150px;
+  background-attachment: fixed;
+  background-position: 15px 98%; 
+
+}
+
 /*.reveal blockquote::before{
   content: "\201C";
   content: "\201E";

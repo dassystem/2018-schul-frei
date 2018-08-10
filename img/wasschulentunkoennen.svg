@@ -17,7 +17,12 @@
    inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="wasschulentunkoennen.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect859"
+       is_visible="true" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-2.1115563"
-     inkscape:cy="119.55581"
+     inkscape:zoom="1.4"
+     inkscape:cx="83.854378"
+     inkscape:cy="123.83199"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,12 +62,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-48.654784,-68.859749)">
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.11227334;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path818"
-       cx="104.76965"
-       cy="117.66215"
-       r="26.903547" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot820"
@@ -82,54 +81,54 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:166.60000086%;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';">Schulen tun?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot828"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.89689159px;line-height:125%;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
-       transform="matrix(0.26458333,0,0,0.26458333,29.132379,36.081386)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.89689159px;line-height:125%;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,41.794581,54.791208)"><flowRegion
          id="flowRegion830"
-         style="-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'"><rect
            id="rect832"
            width="145.46196"
            height="108.08632"
            x="46.467018"
            y="121.45851"
-           style="-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'" /></flowRegion><flowPara
          id="flowPara834"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';">Nutzt</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'">Nutzt</flowPara><flowPara
          id="flowPara836"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';">Freie</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'">Freie</flowPara><flowPara
          id="flowPara838"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';">Software</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'">Software</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot840"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
-       transform="matrix(0.26458333,0,0,0.26458333,-24.588797,17.639789)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:125%;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-29.880464,33.325801)"><flowRegion
          id="flowRegion842"
-         style="font-size:16px;-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'"><rect
            id="rect844"
            width="156.57364"
            height="123.23861"
            x="560.63464"
            y="194.1895"
-           style="font-size:16px;-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'"
          id="flowPara876">Lehrt</flowPara><flowPara
          id="flowPara848"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';">Freie</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'">Freie</flowPara><flowPara
          id="flowPara850"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';">Software</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'">Software</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.2060523px;line-height:125%;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
-       x="152.34361"
-       y="155.61443"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.2060523px;line-height:125%;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="108.30938"
+       y="147.48795"
        id="text854"><tspan
          sodipodi:role="line"
-         x="152.34361"
-         y="155.61443"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';stroke-width:0.13143913;"
+         x="108.30938"
+         y="147.48795"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';stroke-width:0.13143913"
          id="tspan858">Setzt auf</tspan><tspan
          sodipodi:role="line"
-         x="152.34361"
-         y="160.87907"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';stroke-width:0.13143913;"
+         x="108.30938"
+         y="152.75369"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';stroke-width:0.13143913"
          id="tspan893">offene Standards</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -147,16 +146,16 @@
          id="flowPara920">Vertrauen</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot922"
-       style="opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
-       transform="matrix(0.26458333,0,0,0.26458333,200.46388,155.72235)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold';opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,166.25703,144.19407)"><flowRegion
          id="flowRegion924"
-         style="-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'"><rect
            id="rect926"
            width="141.42136"
            height="71.720833"
            x="-182.83762"
            y="43.873333"
-           style="-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Bold'" /></flowRegion><flowPara
          id="flowPara928">Unabhängigkeit</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot930"
@@ -183,5 +182,13 @@
            x="-182.83762"
            y="43.873333"
            style="-inkscape-font-specification:'GelPenUprightLight Bold';font-family:GelPenUprightLight;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara928-0">Unabhängigkeit</flowPara></flowRoot>  </g>
+         id="flowPara928-0">Unabhängigkeit</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:path-effect="#path-effect859"
+       inkscape:original-d="m 106.19682,98.746097 c -3.67938,-0.39728 -7.578007,-0.42922 -10.853397,1.566263 -2.470849,1.50532 -4.645209,3.36767 -6.53068,5.57728 -2.06904,2.42473 -3.658142,5.1209 -4.609752,8.13316 -0.76303,2.41532 -0.985624,4.93452 -0.623068,7.48177 0.50657,3.55906 -0.198401,7.38425 1.698661,10.69534 2.634914,4.59891 8.00644,6.65429 12.982409,6.85811 3.558007,0.14574 7.104927,1.6936 10.662867,1.72226 3.4303,0.0277 6.9095,-0.8666 10.27542,-1.87412 2.1762,-0.65141 3.29187,-2.41823 5.22583,-3.63034 3.03822,-1.9042 3.83604,-4.43051 4.94919,-7.6786 0.87377,-2.5496 1.97532,-5.05178 0.73119,-7.36902 -1.73099,-3.22401 -2.0711,-7.89564 -3.97917,-11.0222 -1.72754,-2.83074 -4.48883,-4.22623 -7.45101,-6.24551 -2.95309,-2.01309 -6.67791,-3.114623 -10.29059,-3.785933 -0.72727,-0.13514 -1.42015,-0.34557 -2.1879,-0.42846 z"
+       id="path857"
+       d="m 106.19682,98.746097 c -3.67389,-0.563735 -7.555328,-0.14779 -10.853397,1.566263 -2.556643,1.32872 -4.673126,3.37469 -6.53068,5.57728 -2.026118,2.40247 -3.820801,5.09103 -4.609752,8.13316 -0.62992,2.42892 -0.592705,4.97268 -0.623068,7.48177 -0.02214,1.82993 -0.08214,3.6656 0.109861,5.48557 0.192007,1.81996 0.64787,3.64012 1.5888,5.20977 1.295811,2.16165 3.436173,3.71419 5.738512,4.73942 2.302338,1.02524 4.783698,1.57162 7.243897,2.11869 3.519617,0.78265 7.059977,1.58296 10.662867,1.72226 3.51249,0.13581 7.09377,-0.37977 10.27542,-1.87412 1.92822,-0.90564 3.68548,-2.15876 5.22583,-3.63034 2.22507,-2.12573 4.01854,-4.74542 4.94919,-7.6786 0.7512,-2.36761 0.92914,-4.89299 0.73119,-7.36902 -0.31545,-3.94565 -1.60778,-7.85295 -3.97917,-11.0222 -1.95626,-2.61445 -4.59206,-4.66793 -7.45101,-6.24551 -3.21061,-1.77162 -6.71566,-2.969505 -10.29059,-3.785933 -0.72466,-0.165495 -1.45318,-0.315722 -2.1879,-0.42846 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssssssssssssss" />
+  </g>
 </svg>
