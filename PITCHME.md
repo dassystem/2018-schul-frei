@@ -32,10 +32,10 @@ Adrian Salamon <br>
 tarent solutions GmbH
 </div>
 
-<img style="float: right; width:150px;" src="./cc-by.png">
+<img style="width:150px;" src="./cc-by.png">
 
 
----
+----
 With (some) illustrations of
 
 ```Text
@@ -44,7 +44,7 @@ Christian Noguera, Valentin Pasquier, Richard Stallman
 Released under CC-BY 3.0 license
 Copyright 2014
 ```
-<!-- Info: every image without a source is made by Noguera,Pasquier and Stallman -->
+<!-- Info: every image without a source is made by Noguera, Pasquier and Stallman -->
 
 
 <div style="display:none">
@@ -107,6 +107,7 @@ Note:
 
 ## Aufgaben der Lehrkraft
 
+
 <div class="fullsize"> 
 <ul>
   <li> Vermitteln von Fachinhalten </li>
@@ -134,9 +135,12 @@ Note:
 ![](./img/program-controls.png)
 
 Note:
-* DSGVO
-* Informationelle Selbstbestimmung?
+* Daten speichern: DSGVO
+* Daten verteilen: Recht auf Informationelle Selbstbestimmung (Tel-Nr, Name, Adressbuch…)
 
+<!-- Quellen:
+	https://www.datenschutzticker.de/2017/07/abmahnung-fuer-whatsapp-nutzer/
+-->
 ---
 
 ### Digitale Werkzeuge in der Lehre 
@@ -170,8 +174,9 @@ Note:
 ![](./img/amazon.png) <!-- image modifiedy by Adrian Salamon 2018 -->
 
 Note:
-* lo-net2 
-
+* Bsp: lo-net2
+* Monopole werden gelebt und gefördert
+* 
 
 ---
 
@@ -343,5 +348,10 @@ Note:
 
 ---
 # Vielen Dank
+
+Note:
+* Zuhörer
+* Veranstalter
+* tarent
 
 
