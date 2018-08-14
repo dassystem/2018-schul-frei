@@ -188,9 +188,27 @@ Note:
 ![](./img/teacher-deals.png)
 
 Note: §99 Sponsoring, Werbung
-	- > Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.
-	- !Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
+	- »Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.«
+	- Kein Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
 	- Windows, Appe, Whatsapp, Facebook…
+
+---
+
+### Es gibt keine Standardsoftware
+
+
+* Defakto keine standartisierten Formate!
+* Keine "must have" Software!
+* Zeigt fehlende Kompetzenzorientierung in der Didaktik!
+
+![](./img/standards.png) <!-- Remix of following images: http://valsparchampionship.com/microsoft-word-icon/  http://www.myiconfinder.com/icon/photoshop-ps-metro-ui-adobe-logo-application-design-software-edit-file-format/12439 -->
+
+Note:
+* Klickkompetenzt
+* Beim nächsten Update: Keiner kann etwas
+* Investition in Herstellerunabhängige Fertigkeiten!
+* Software und Arbeitsweise damit mit Bedacht wählen!
+
 
 ---
 
