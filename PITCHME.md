@@ -159,16 +159,17 @@ Note:
 
 
 Note:
-* Abhängigkeiten durch Vertrieb
-* Abhängigkeiten durch falsche "Standards"
-* Abhängigkeiten durch Gewohnheit
+* Abhängigkeiten durch…
+	- Vertrieb
+	- falsche "Standards"
+	- Gewohnheit
 
 ---
 
 ### und das Lehrerleben… 
 * Dropbox für Materialaustausch
-* Noteneingabe über eine proprietäre uralt Software
 * "Cloudspeicher"-Software von Schulbuchverlagen
+* Noteneingabe über eine proprietäre uralt Software
 * MS Word. Für alles. Wirklich alles.
 
 ![](./img/amazon.png) <!-- image modifiedy by Adrian Salamon 2018 -->
@@ -176,44 +177,50 @@ Note:
 Note:
 * Bsp: lo-net2
 * Monopole werden gelebt und gefördert
-* 
+* es ist angenehm, sich darüber keine Gedanken zu machen
 
 ---
 
 
 ### "Nur" ein Lernwerkzeug?
 
-* TODO WERBUNG
+* § 99 NRW SchulG: Sponsoring, Werbung:
+	> »Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.«
+* Produktkenntnis vs. Fachkompetenz?
 
 ![](./img/teacher-deals.png)
 
 Note: §99 Sponsoring, Werbung
-	- »Jede Werbung, die nicht schulischen Zwecken dient, ist in der Schule unzulässig.«
 	- Kein Produkt, wohl aber Kompetenzen zur Benutzung vermitteln!
-	- Windows, Appe, Whatsapp, Facebook…
+	- Windows, Apple, Whatsapp,…
 
 ---
 
-### Es gibt keine Standardsoftware
+### Womit wollen wir arbeiten?
 
 
-* Defakto keine standartisierten Formate!
-* Keine "must have" Software!
-* Zeigt fehlende Kompetzenzorientierung in der Didaktik!
+* Standards müssen offen und zugänglich sein
+* Es gibt keine "must have" Software / Industriestandards! 
+* Zeigt fehlende Kompetzenzorientierung in der Medienbildung!
 
 ![](./img/standards.png) <!-- Remix of following images: http://valsparchampionship.com/microsoft-word-icon/  http://www.myiconfinder.com/icon/photoshop-ps-metro-ui-adobe-logo-application-design-software-edit-file-format/12439 -->
 
 Note:
-* Klickkompetenzt
-* Beim nächsten Update: Keiner kann etwas
-* Investition in Herstellerunabhängige Fertigkeiten!
-* Software und Arbeitsweise damit mit Bedacht wählen!
+* Industrie will sogar freie Geister!
+	- lieber Typographie statt Präsentationsanimationen
+* Klickkompetenz
+	- Beim nächsten Update: Keiner kann etwas
+* Investition in herstellerunabhängige Fertigkeiten ist nötig!
+* Software und dazugehörige Arbeitsweise mit Bedacht wählen!
 
 
 ---
 
 
 ### Lehrkraft und Computer – Wer kontrolliert wen?
+
+* Wenn ich nicht nutzen kann, wie soll ich dann gestalten?
+* echte Wahlmöglichkeiten
 
 ![](./img/force-downgrade.png)
 
@@ -225,7 +232,7 @@ Note:
 
 ---
 
-## Aspekte Freier Software 
+## (einige) Aspekte Freier Software 
 
 * Vertrauen
 * Unabhängigkeit
@@ -240,57 +247,60 @@ Note:
 ### Vertrauen
 #### "Macht das Programm genau das, was ich will?"
 
-
+* proprietär = Blackbox
 * Wie objektiv kann ein proprietäres Werkzeug sein?
-* Was, wenn Google/Facebook/etc. bestimmte Beiträge rausfiltert?
-* Was, wenn unsere Regierung abhängig vom den größten amerikanischen Unternehmen ist?
-
 
 ![orders-from](./img/orders-from.png)
 
 Note:
-* Objektiv: Es muss geeicht sein von einer unabhänigen Stelle
-* §3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
-* Multiperspektivisch (did)
-
-* Was, wenn meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
-
-
+* Objektiv?: Es muss geeicht sein von einer unabhänigen Stelle
+	- Fleischer, bestelle 500g Hackfleisch, kurz unter den Tresen
+* Was, wenn…
+	- Google/Facebook/etc. bestimmte Beiträge rausfiltert?
+	- meine Entwicklungsumgebung nur noch eine Programmiersprache unterstützt?
+	- unsere Regierung abhängig vom den größten amerikanischen Unternehmen ist?
 
 ---
 
 ### Unabhängigkeit
 
-#### "Ich will nichts installieren": Software as a service
+#### "Unser Lizenzvertrag mit XY läuft noch 5 Jahre…"
 
-* Netzwerkdateisystem
-* Chatsysteme
-* Soziale Medien
-* Lernplattformen
+* keine Verpflichtungen
+* offen für neue Anforderungen
+* am Bedarf orientiert
 * _⇒ Freie Schnittstellen/Formate verwenden!_
 
 ![](./img/saas.png)
+
+Note:
+* SaaS: §3 Schulische Selbstständigkeit, Eigenverantwortung, Qualitätsentwicklung und -sicherung
+	- selbst die geeignete Software auswählen
+	- selbst hosten
+* reagieren auf Veränderungen (Windows Phone, Laserdisk) 
 
 ---
 
 
 ### Anpassbarkeit
 #### "Wir brauchen das ein bisschen anders…"
-* (graphical) user interface
+* (graphical) user interface anpassen
+* Kompontenten ändern
 * Rechteverwaltung
-* Austauschbarkeit
 
 ![](./img/collaborate.png)
 
-Note: Ebene Konfiguration oder Kompilierung
+Note:
+* Individuell und differenziert: Wie im Unterricht!
+* Ebene Konfiguration oder Kompilierung
 
 ---
 
 ### FOSS als Grundlage digitaler Selbstverteidigung
 * sehen/bearbeiten/lesen von Quelltext
 * Wahlmöglichkeiten 
-* Keine/weniger Lizenzgebüren 
-* mehr Schutz vor NSA, Bundestrojaner…
+* keine Lizenzgebüren 
+* Schutz vor NSA, Bundestrojaner…
 * weniger Einfluss von Konzernen auf unser Konsum- und Kommunikationsverhalten
 
 ![](./img/backdoor.png)
@@ -315,9 +325,10 @@ Note:
 
 
 Note: 
-* moralischer Mehrwert
-* sharing is caring
-* Erziehung: Einander helfen
+* moralischer Mehrwert:
+	- sharing is caring
+	- Erziehung: Einander helfen
+	- Empower: Du kannst mit FOSS etwas bewegen, auch gegen Großkonzerne
 
 ---
 
@@ -325,7 +336,7 @@ Note:
 
 * zielgerichtet einsetzen
 * bewusst gestalten
-* mündig leben
+* Mündigkeit ermöglichen
 
 ![teach free software](./img/teach-free.png)
 
@@ -344,8 +355,8 @@ Note:
 * __Seafile__ statt Dropbox
 * __Diaspora__ statt Facebook
 * __GnuSocial__ statt Twitter
-* __Moodle__ statt nicht Moodle
-* __XMPP__ statt WhatsApp
+* __Moodle__ statt [nicht Moodle]
+* __Conversations/Signal__ statt WhatsApp
 * __Libre Office__ statt Microsoft Office
 * __NextCloud__ als Daten- und Kommunikationsplattform
 

@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="196.07579mm"
+   width="201.18616mm"
    height="123.35995mm"
-   viewBox="0 0 196.07578 123.35995"
+   viewBox="0 0 201.18615 123.35995"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
@@ -43,8 +43,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="174.29392"
-     inkscape:cy="179.97774"
+     inkscape:cx="324.55352"
+     inkscape:cy="171.56046"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,7 +73,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-11.854474,-54.983842)">
+     transform="translate(-13.708473,-54.983842)">
     <use
        id="use916"
        transform="matrix(-0.27946076,-0.27946076,0.27946076,-0.27946076,109.89237,178.34379)"
@@ -84,165 +84,145 @@
        y="0"
        width="100%"
        height="100%" />
-    <g
-       id="g1073"
-       transform="translate(-3.6060875)">
-      <text
-         id="text825"
-         y="84.624596"
-         x="140.22693"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="84.624596"
-           x="140.22693"
-           id="tspan823"
-           sodipodi:role="line">keine erzwungenen Standards</tspan><tspan
-           id="tspan827"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="91.239182"
-           x="140.22693"
-           sodipodi:role="line"></tspan><tspan
-           id="tspan829"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="97.85376"
-           x="140.22693"
-           sodipodi:role="line" /></text>
-      <text
-         id="text833"
-         y="85.220177"
-         x="19.510643"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="85.220177"
-           x="19.510643"
-           id="tspan831"
-           sodipodi:role="line">echt benutzerorientiert</tspan></text>
-    </g>
-    <g
-       id="g1059"
-       transform="translate(4.4250694)">
-      <text
-         id="text837"
-         y="133.23129"
-         x="131.94203"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="133.23129"
-           x="131.94203"
-           id="tspan835"
-           sodipodi:role="line">keine Monopole</tspan></text>
-      <text
-         id="text845"
-         y="133.69592"
-         x="45.139679"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="133.69592"
-           x="45.139679"
-           id="tspan843"
-           sodipodi:role="line">Nachvollziehbarkeit</tspan></text>
-    </g>
-    <g
-       id="g1065"
-       transform="translate(3.7545156)">
-      <text
-         id="text817"
-         y="108.83371"
-         x="140.72261"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           id="tspan821"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="108.83371"
-           x="140.72261"
-           sodipodi:role="line">Teil einer sozialen Bewegung</tspan></text>
-      <text
-         id="text849"
-         y="109.26997"
-         x="7.7718749"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="109.26997"
-           x="7.7718749"
-           id="tspan847"
-           sodipodi:role="line">keine Überwachung der Nutzer</tspan></text>
-    </g>
-    <g
-       id="g1086"
-       transform="translate(-3.356857)">
-      <text
-         id="text841"
-         y="61.505661"
-         x="50.526859"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="61.505661"
-           x="50.526859"
-           id="tspan839"
-           sodipodi:role="line">bessere Sicherheit</tspan></text>
-      <text
-         id="text853"
-         y="61.442692"
-         x="113.1268"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="61.442692"
-           x="113.1268"
-           id="tspan851"
-           sodipodi:role="line">keine erzwungenen Updates</tspan></text>
-    </g>
-    <g
-       id="g1053"
-       transform="translate(3.6990222)">
-      <text
-         id="text857"
-         y="157.3607"
-         x="68.292419"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="157.3607"
-           x="68.292419"
-           id="tspan855"
-           sodipodi:role="line">größte Freiheit</tspan></text>
-      <text
-         id="text861"
-         y="157.29744"
-         x="110.43623"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
-           y="157.29744"
-           x="110.43623"
-           id="tspan859"
-           sodipodi:role="line">geringe Kosten</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="57.245842"
+       y="62.512989"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         x="57.245842"
+         y="62.512989"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">keine erzwungenen &quot;Standards&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="57.245842"
+         y="69.930145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
+         id="tspan827" /><tspan
+         sodipodi:role="line"
+         x="57.245842"
+         y="76.544724"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
+         id="tspan829" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="138.17986"
+       y="124.8913"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="138.17986"
+         y="124.8913"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">echt benutzerorientiert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="25.771265"
+       y="124.12207"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="25.771265"
+         y="124.12207"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">keine Monopole</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="130.22485"
+       y="147.42343"
+       id="text845"><tspan
+         sodipodi:role="line"
+         id="tspan843"
+         x="130.22485"
+         y="147.42343"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">Nachvollziehbarkeit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="66.803017"
+       y="171.46437"
+       id="text817"><tspan
+         sodipodi:role="line"
+         x="66.803017"
+         y="171.46437"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913"
+         id="tspan821">Teil einer sozialen Bewegung</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="13.227284"
+       y="147.14319"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="13.227284"
+         y="147.14319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">keine Überwachung der Nutzer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="16.931908"
+       y="78.892563"
+       id="text841"><tspan
+         sodipodi:role="line"
+         id="tspan839"
+         x="16.931908"
+         y="78.892563"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">bessere Sicherheit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="122.62113"
+       y="78.03196"
+       id="text853"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="122.62113"
+         y="78.03196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">keine erzwungenen Updates</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="18.545593"
+       y="100.55069"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="18.545593"
+         y="100.55069"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">größte Freiheit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="152.68881"
+       y="100.45791"
+       id="text861"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="152.68881"
+         y="100.45791"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">geringe Kosten</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot882"
-       style="font-size:20px;line-height:1.25;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-size:26.66666794px;line-height:1.25;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0.26458333,0,0,0.26458333,7.0456457,6.5979418)"><flowRegion
          id="flowRegion884"
-         style="font-size:20px"><rect
+         style="font-size:26.66666794px"><rect
            id="rect886"
            width="186.42857"
            height="162.14285"
            x="295"
            y="297.51968"
-           style="font-size:20px" /></flowRegion><flowPara
+           style="font-size:26.66666794px" /></flowRegion><flowPara
          id="flowPara888"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:24px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Ultra-Light';text-align:center;text-anchor:middle">BENEFITS </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:GelPenUprightHeavy;-inkscape-font-specification:GelPenUprightHeavy;text-align:center;text-anchor:middle;fill:#ffffff">BENEFITS </flowPara><flowPara
          id="flowPara894"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:24px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Ultra-Light';text-align:center;text-anchor:middle">OF</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:GelPenUprightHeavy;-inkscape-font-specification:GelPenUprightHeavy;text-align:center;text-anchor:middle;fill:#ffffff">OF</flowPara><flowPara
          id="flowPara892"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:24px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Ultra-Light';text-align:center;text-anchor:middle">FREE</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:GelPenUprightHeavy;-inkscape-font-specification:GelPenUprightHeavy;text-align:center;text-anchor:middle;fill:#ffffff">FREE</flowPara><flowPara
          id="flowPara890"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:24px;font-family:GelPenUprightLight;-inkscape-font-specification:'GelPenUprightLight Ultra-Light';text-align:center;text-anchor:middle">SOFTWARE</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:GelPenUprightHeavy;-inkscape-font-specification:GelPenUprightHeavy;text-align:center;text-anchor:middle;fill:#ffffff">SOFTWARE</flowPara></flowRoot>  </g>
 </svg>

@@ -37,9 +37,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="-95.464697"
-     inkscape:cy="-23.958521"
+     inkscape:zoom="1.979899"
+     inkscape:cx="182.66764"
+     inkscape:cy="39.034938"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -106,7 +106,7 @@
        xml:space="preserve"
        id="flowRoot832"
        style="line-height:1.25;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.26771665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,26.459683,-49.311227)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-6.8153733,-58.799295)"><flowRegion
          id="flowRegion834"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><rect
            id="rect836"
@@ -116,7 +116,9 @@
            y="611.38251"
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara838"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:GelPenUprightHeavy;-inkscape-font-specification:GelPenUprightHeavy;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">STANDARDS</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:GelPenUprightHeavy;-inkscape-font-specification:GelPenUprightHeavy;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">INDUSTRIE-</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:GelPenUprightHeavy;-inkscape-font-specification:GelPenUprightHeavy;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.26771665;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="flowPara827">STANDARDS</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.96499997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        inkscape:path-effect="#path-effect846"
        inkscape:original-d="m 44.999328,104.13867 c 1.439558,0.31812 2.120599,1.39319 3.474507,1.73725 1.377004,0.6574 2.315818,1.10807 3.474502,1.73726 1.121653,0.50888 2.7446,1.22076 4.283365,1.57372 0.938123,0.44009 2.436547,1.02841 3.565618,1.09897 1.813303,0.35361 2.264547,1.26645 4.178144,1.06908 2.281078,1.03292 4.484061,1.4259 6.962323,2.13763 2.207175,0.81123 4.777367,1.27712 6.935692,1.87141 1.655595,1.24731 4.02293,1.15294 5.612662,2.40543 1.76807,-0.13197 1.694193,0.90809 3.207234,0.80181 0.976359,1.2966 3.905401,1.86232 4.54358,2.13815 0.666372,0.66573 2.252192,1.30951 3.331092,1.89452 0.13182,0.92318 1.62865,0.89877 1.99068,1.45614 0.88247,0.23093 1.23324,0.95708 2.16178,1.19293 1.21679,0.95067 3.104413,1.19917 3.841193,2.18767 1.28012,0.0123 1.73899,1.60213 3.37509,1.5541 0.58073,1.1136 1.60948,0.88616 2.6727,1.60362 0.35959,0.95241 1.69272,1.04566 2.40542,1.87088 0.94069,0.13935 1.07804,0.8125 2.13816,1.06908 0.94659,0.8621 2.7171,1.69747 4.00904,1.87089 0.63227,0.59682 0.94016,0.57781 1.73724,1.06907 0.69757,0.33121 1.23903,0.75191 2.00453,1.06908 0.4564,0.5857 0.95435,0.48775 1.60362,0.93545 0.67137,0.2933 1.29177,0.73272 2.13816,1.06907 0.51596,0.33711 0.85991,0.84497 1.60361,0.93545 0.37501,0.55359 1.10844,0.53801 1.69549,0.99391 l -0.0919,0.0752 h 0.26727"
