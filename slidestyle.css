@@ -45,7 +45,7 @@
 }
 
 .reveal strong{
-  color: #ff0000;
+  color: #3e83e0;
 }
 
 .reveal .imgnonfloat{
@@ -95,6 +95,10 @@ body{
   background-attachment: fixed;
   background-position: 15px 98%; 
 
+}
+
+.reveal a {
+  color: #3e83e0;
 }
 
 /*.reveal blockquote::before{
