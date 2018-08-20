@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="161.68828mm"
+   height="96.266541mm"
+   viewBox="0 0 161.68828 96.26654"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="foss-bildung.svg"
+   inkscape:export-filename="/media/adrian/Intern4Linux/seafile-sync/Seafile/Vorträge/2018-schul-frei/img/foss-bildung.png"
+   inkscape:export-xdpi="298.41522"
+   inkscape:export-ydpi="298.41522">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1688"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1686"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1624"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1622"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1614"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1612"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1120"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#3c3c3c;fill-opacity:1;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1494"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1492"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1448"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1446"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1408"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1406"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1312"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1310"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1284"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1282"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1262"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1260"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect889"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="330.60847"
+     inkscape:cy="171.51017"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.222275,-50.185316)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot839"
+       style="font-size:48px;line-height:2.25;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-18.307963,5.4790253)"><flowRegion
+         id="flowRegion841"><rect
+           id="rect843"
+           width="501.03568"
+           height="302.54068"
+           x="107.58125"
+           y="137.62096" /></flowRegion><flowPara
+         id="flowPara845" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="53.49934"
+       y="117.2501"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="53.49934"
+         y="117.2501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">DIDAKTISCH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="51.448711"
+       y="122.43666"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
+         x="51.448711"
+         y="122.43666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;fill:#3c3c3c;fill-opacity:1;stroke-width:0.13143913">KOMPETENZOERIENTIERT*</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,69.717286,-23.890669)"><flowRegion
+         id="flowRegion817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight"><rect
+           id="rect819"
+           width="329.28571"
+           height="130"
+           x="214.28572"
+           y="275.37683"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight" /></flowRegion><flowPara
+         id="flowPara821">KOMMERZIELL</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="126.10547"
+       y="60.994305"
+       id="text853"><tspan
+         sodipodi:role="line"
+         id="tspan851"
+         x="126.10547"
+         y="60.994305"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;fill:#3c3c3c;fill-opacity:1;stroke-width:0.13143913">LIZENZFREI und UNABHÄNGIG</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot823"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.27216288,0,0,0.2551098,-30.155564,11.391354)"><flowRegion
+         id="flowRegion825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight"><rect
+           id="rect827"
+           width="207.08127"
+           height="51.51778"
+           x="285.87317"
+           y="147.21741"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666794px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight" /></flowRegion><flowPara
+         id="flowPara829">ETHISCH</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5133121px;line-height:2.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.13090017;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="34.132893"
+       y="62.273396"
+       id="text857"
+       transform="scale(1.0328824,0.96816443)"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="34.132893"
+         y="62.273396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5133121px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;fill:#3c3c3c;fill-opacity:1;stroke-width:0.13090017">für FREIHEIT und GEMEINSCHAFT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="172.84769"
+       y="77.208488"
+       id="text833"><tspan
+         sodipodi:role="line"
+         id="tspan831"
+         x="172.84769"
+         y="77.208488"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;stroke-width:0.13143913">SICHER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:2.25;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#3c3c3c;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="172.42213"
+       y="82.691948"
+       id="text853-4"><tspan
+         sodipodi:role="line"
+         id="tspan851-7"
+         x="172.42213"
+         y="82.691948"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;fill:#3c3c3c;fill-opacity:1;stroke-width:0.13143913">ÜBERPRÜFBAR</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot896"
+       style="font-size:48px;line-height:2.25;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.49677786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-11.440331,-42.160756)"><flowRegion
+         id="flowRegion898"><rect
+           id="rect900"
+           width="1060.6602"
+           height="272.74121"
+           x="187.88837"
+           y="642.6972" /></flowRegion><flowPara
+         id="flowPara902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight">*weil nicht auf Produkte zugeschnitten</flowPara><flowPara
+         id="flowPara904"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight" /></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1624)"
+       d="m 65.767857,63.5997 c 0,0 -0.45202,3.518271 8.693452,10.01637 l 7.181547,5.102679"
+       id="path938"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1614)"
+       d="m 142.0718,64.922617 c -3.08597,7.912966 -8.69584,7.898239 -10.3471,14.174108"
+       id="path944"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+       d="m 99.085387,118.49565 c -0.75595,-0.18898 19.788123,-1.03434 20.166103,-12.18464"
+       id="path948"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3c3c3c;stroke-width:0.465;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.70000005;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1688)"
+       d="m 184.91634,87.478958 c 1.76099,4.1885 -25.87795,11.122968 -34.13032,5.068354"
+       id="path950"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.69999981px;line-height:2.25;letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#1f1a17;fill-opacity:1;stroke:none;stroke-width:0.13143913;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="111.91428"
+       y="71.726196"
+       id="text954"><tspan
+         sodipodi:role="line"
+         id="tspan952"
+         x="111.91428"
+         y="71.726196"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:2.3499999px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;text-align:center;text-anchor:middle;stroke-width:0.13143913"
+         dx="0"
+         dy="17.570009"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">FREIE SOFTWARE</tspan><tspan
+         sodipodi:role="line"
+         x="111.91428"
+         y="100.30119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;font-family:GelPenUprightLight;-inkscape-font-specification:GelPenUprightLight;text-align:center;text-anchor:middle;stroke-width:0.13143913"
+         id="tspan956"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">IN DER BILDUNG</tspan></text>
+  </g>
+</svg>
