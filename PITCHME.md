@@ -155,7 +155,7 @@ Note:
 * Kommunikationstools
 * Social Media
 
-![](./img/propritary-presentation.png)
+![](./img/prison.png) <!-- image by Adrian Salamon -->
 
 
 Note:
@@ -220,7 +220,8 @@ Note:
 ### Lehrkraft und Computer – Wer kontrolliert wen?
 
 * Wenn ich nicht nutzen kann, wie soll ich dann gestalten?
-* echte Wahlmöglichkeiten
+* Vorbild: Kompetente Lehrkraft?
+
 
 ![](./img/force-downgrade.png)
 
@@ -313,22 +314,27 @@ Note:
 
 ---
 
+# Wir müssen etwas ändern!
+<img src="./img/foss-bildung.png" style="min-width:70%">
 
-## Lasst uns so lehren…
+---
+
+## Lasst uns einen Grundstein legen
 
 * mit Freier Software (Unabhängigkeit)
 * an Freier Software (Codeanalyse)
 * für Freie Software (Erziehungsauftrag)
-
+* Ethik in der Informatik an Hochschulen
 
 ![](./img/teacher-shares.png)
 
 
 Note: 
-* moralischer Mehrwert:
+* moralischer Mehrwert (start in der Schule):
 	- sharing is caring
 	- Erziehung: Einander helfen
 	- Empower: Du kannst mit FOSS etwas bewegen, auch gegen Großkonzerne
+* mehr Ethik in der Informatik -> Lehrstuhl Informatik in Bildung und Gesellschaft (Wolfgang Coy)
 
 ---
 
@@ -336,6 +342,8 @@ Note:
 
 * zielgerichtet einsetzen
 * bewusst gestalten
+* Bewusstsein schaffen
+* Alternativen würdigen
 * Mündigkeit ermöglichen
 
 ![teach free software](./img/teach-free.png)
