@@ -56,9 +56,17 @@ Ist das alles mit den Zielen digitaler Medienbildung konform? Könnte Freie Soft
 
 Beobachtungen aus der Perspektive der Schulinformatik.
 
----
+----
 </div>
 
+## Zur Person
+
+* Früher: Lehrer für Informatik und Geschichte
+* Jetzt: Scrum Master bei <img src="./img/tarent_logo_red.png"  class="imgnonfloat" style="height:0.9em;">
+
+![](./img/Adrian_Salamon_Avatar.png)
+
+---
 
 <!--footer: Adrian Salamon, 2018. cc-by 4.0 -->
 
@@ -79,9 +87,9 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 ### Freie Software bedeutet, jeder hat die Freiheit…
 
 * das Programm auszuführen wie man möchte.
-* die Funktion des Programms zu untersuchen anzupassen. <img src="./img/source-code-symbol.png" class="imgnonfloat">
+* die Funktion des Programms zu untersuchen anzupassen. <img src="./img/source-code-symbol.png" class="imgnonfloat" style="width:1.2rem;">
 * das Programm zu verteilen.
-* das Programm zu verbessern. <img src="./img/source-code-symbol.png" class="imgnonfloat">
+* das Programm zu verbessern. <img src="./img/source-code-symbol.png" class="imgnonfloat" style="width:1.2rem;">
 
 ![](./img/sourcecode-free.png)
 
