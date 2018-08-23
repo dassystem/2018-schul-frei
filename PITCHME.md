@@ -81,6 +81,9 @@ Beobachtungen aus der Perspektive der Schulinformatik.
 
 ![](./img/sourcecode.png)
 
+Note:
+ * Text-Code -> Maschinensprache
+
 
 ---
 
@@ -111,10 +114,13 @@ Note:
 * https://www.gnu.org/philosophy/free-software-for-freedom.de.html
 * https://www.gnu.org/philosophy/open-source-misses-the-point.de.html
 
+Note:
+* Free Software Movement
+* Github @ Microsoft ?
+
 ---
 
 ## Aufgaben der Lehrkraft
-
 
 <div class="fullsize"> 
 <ul>
@@ -249,6 +255,9 @@ Note:
 
 ![](./img/benefits.png) <!-- image created by Adrian Salamon 2018 CC-BY -->
 
+Note:
+ * Sicherheit: Transparenz und Offenheit statt Abschottung und Geheimhaltung
+ * siehe: Geschichte der Kryptographie (Simon Singh?)
 
 
 ---
