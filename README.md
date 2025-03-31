@@ -10,6 +10,8 @@ You'll get best results using `PITCHME.md` together with `reveal-md`.
 
 `reveal-md PITCHME.md --css slidestyle.css -w --theme white`
 
+You also might directly checkout [slides.pdf](slides.pdf).
+
 Have fun
 
 Adrian
